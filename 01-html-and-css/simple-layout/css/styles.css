@@ -1,0 +1,42 @@
+div{
+    display: flex;
+}
+header{
+background-color: pink;
+color: black;
+height: 50px;
+padding: 5px 5px 5px 5px;
+display: flex;
+}
+h1{
+    padding: 0px 500px 5px 400px;
+}
+nav{
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+    background-color: palevioletred;
+}
+content{
+    background-color: blue;
+    padding: 20px 20px 20px 20px;
+}
+aside{
+    background-color: orange;
+    width: 20%;
+    padding: 5px 5px 5px 5px;
+    height: 200px;
+}
+article{
+    background-color: brown;
+    width: 80%;
+    padding: 2px 20px 20px 20px;
+    margin: 0px 10px 10px 0px;
+}
+footer{
+    background-color: lightblue;
+}
+body{
+    background-color: darkkhaki;
+    max-width: 90%;
+    padding: 0px 0px 0px 20px;
+}
