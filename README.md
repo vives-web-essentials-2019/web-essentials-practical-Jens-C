@@ -1,6 +1,6 @@
 # Web Essentials: Exercises and Assignments
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**: Jens Cocquyt
 
 **URL**: <!-- TODO: paste the full netlify URL to the solution of this exercise  -->
 
