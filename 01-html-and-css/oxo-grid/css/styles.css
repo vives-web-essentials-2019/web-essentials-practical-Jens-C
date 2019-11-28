@@ -1,0 +1,14 @@
+
+.container > div{
+    border: 5px solid black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 150px;
+    line-height: 250px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 260px 260px 260px;
+    grid-gap: 10px;
+}
