@@ -12,7 +12,7 @@ It all works
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
 
-I think it was easy
+I think it was easy.
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
 
