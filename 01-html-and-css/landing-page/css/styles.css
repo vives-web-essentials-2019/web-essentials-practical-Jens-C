@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to top, white, grey)
+}
+.center{
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
