@@ -1,0 +1,52 @@
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:300px;
+    background-color: darkgrey;
+    
+}
+
+topbar{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+    border-radius: 10px 10px 0px 0px;
+}
+close{
+    margin: 0px 0px 0px 470px
+}
+middle{
+    margin: 0px;
+    background-color: white;
+}
+middle> div{
+    padding: 30px 20px 30px 20px;
+    background-color: white;
+}
+bodembar{
+    display: flex;
+    background-color: lightgrey;
+    padding: 15px;
+    border-radius:0px 0px 10px 10px ;
+    
+}
+bodembar > div{
+    border: 2px solid rgb(13, 146, 106);
+    border-radius: 5px;
+    padding: 7px;
+}
+.ok{
+    
+    margin: 0px 0px 0px 700px;
+    background-color: rgb(13, 146, 106);
+    color: white;
+}
+.cancel{
+    margin: 0px 0px 0px 30px;
+    color: rgb(13, 146, 106);
+}
