@@ -1,0 +1,32 @@
+body{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+tr , td{
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: white solid 1px;
+    width: 170px;
+    width: auto;
+    max-width: 170px;
+    text-align: center;
+    
+}
+.grid{
+
+    border: 10px lightgray solid;
+}
+.course{
+    background-color:rgb(62, 192, 243);
+}
+.days{
+    background-color: rgb(238, 238, 238);
+}
+table{
+    border: lightgray 1px solid;
+    
+}

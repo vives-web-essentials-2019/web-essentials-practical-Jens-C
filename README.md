@@ -24,8 +24,8 @@ Finished | Exercise | Difficulty
 :heavy_check_mark: | [Landing page](01-html-and-css/landing-page/README.md) | :star:
 :heavy_check_mark: | [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
 :heavy_check_mark: | [OXO](01-html-and-css/oxo-grid/README.md) | :star:
-:x: | [Popup](01-html-and-css/popup/README.md) | :star:
-:x: | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
+:heavy_check_mark: | [Popup](01-html-and-css/popup/README.md) | :star:
+:heavy_check_mark: | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
 :x: | [Topbar icons](01-html-and-css/topbar-icons/README.md) | :star::star:
 :x: | [Price comparison](01-html-and-css/price-comparison/README.md) | :star::star::star:
 :x: | [Card designs](01-html-and-css/card-designs/README.md) | ️️️️️️:star::star::star:
